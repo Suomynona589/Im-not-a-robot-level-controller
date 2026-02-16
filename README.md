@@ -10,4 +10,5 @@ Links for each browser:<br>
 <a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">Microsoft Edge</a>, or<br>
 <a href="https://addons.opera.com/extensions/details/tampermonkey-beta">Opera GX</a>.<br>
 
-Copy this script, and in Tampermonkey create a new script, and paste this script. Click Ctrl+S or smth else to save, and go to <a href="https://neal.fun/not-a-robot">I'm Not a Robot!</a><br>
+<h2>Then, install it!</h2>
+<a href="https://update.greasyfork.org/scripts/558454/I%27m%20not%20a%20robot%20nealfun%20level-controller.user.js">Install</a>
